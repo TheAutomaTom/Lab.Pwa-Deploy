@@ -8,7 +8,7 @@ export default defineConfig({
   build: {
     outDir: "dist",
   },
-  base: "/Pwa-Test-Harness/",
+  // base: "/Pwa-Test-Harness/",
   publicDir: "public",
   plugins: [
     vue(),
